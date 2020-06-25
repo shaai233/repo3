@@ -1,2 +1,6 @@
 的撒大大赛
+<<<<<<< HEAD
 在repo3中修改hello3中的内容
+
+在resp1中修改了hello3中的内容
+
